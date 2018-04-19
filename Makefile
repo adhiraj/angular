@@ -3,7 +3,7 @@
 #  SENTRY_AUTH_TOKEN
 
 SENTRY_ORG=testorg-az
-SENTRY_PROJECT=ng-demo
+SENTRY_PROJECT=ng-demo-adhiraj
 VERSION=`sentry-cli releases propose-version`
 PREFIX=dist
 
