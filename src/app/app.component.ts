@@ -6,6 +6,7 @@ import * as Raven from 'raven-js';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
   color = 'black';
   textValue = '';
